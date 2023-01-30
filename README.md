@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sachinshiv1 am now doing my BTech and im in my second year of CSE.
-- 👀 Interested in CP and HACATHONS and building intresting projects
-- 🌱 Currently learning JAVA and new Technologies
-- 💞️ I’m looking to collaborate on GSOC
-- 📫 Mail me at sachinshivanand11111@gmail.com
+- @Sachinshiv1 doing my BTech CSE
+- CP and HACATHONS and Development of projects
+- Currently learning JAVA Web-Dev JS and Data Science
+- Looking forward to collaborate on GSOC and Open Souce Projects
+- Mail me at sachinshivanand11111@gmail.com
 
 <!---
 Sachinshiv1/Sachinshiv1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
