@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sachinshiv1/Sachinshiv1/blob/main/GithubBanner.png)
 
-<h1 align="center">Hey 👋, I'm Sachin Shiv Anand</h1>
+<h1 align="center">Hey &#129309, I'm Sachin Shiv Anand</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img  align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="coding">
 <br>
@@ -16,11 +16,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/imsachin_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imsachin_1" height="30" width="40" /></a>
+
 <a href="https://twitter.com/imsachin_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imsachin_1" height="30" width="40" /></a>
+<a href="https://dev.to/imsachin_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imsachin_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sachin-shiv-anand-282004154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-shiv-anand-282004154" height="30" width="40" /></a>
 <a href="https://instagram.com/sachinshiv_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachinshiv_1" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sachin_shiv12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sachin_shiv12" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sachin_shiv12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sachin_shiv12" height="30" width="40"  /></a>
 <a href="https://www.leetcode.com/sachin_shiv12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachin_shiv12" height="30" width="40" /></a>
 </p>
 <h3 align="left">Skills</h3>
