@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sachin Shiv Anand</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img  align="right" width="400" src="/programmer.gif" alt="coding">
+<img  align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="coding">
 
 - 🔭 I’m currently working on **Flutter App Development**
 
