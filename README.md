@@ -2,7 +2,6 @@
 
 <h1 align="center">Hey &#129309, I'm Sachin Anand</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img  align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="coding">
 <br>
 
 <h3 align="left">Connect with me:</h3>
