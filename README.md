@@ -31,8 +31,8 @@
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinshiv1&show_icons=true&locale=en&layout=compact" alt="sachinshiv1" /></p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinshiv1&show_icons=true&locale=en" alt="sachinshiv1" /></p>
 
-<br><br>
+<br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinshiv1&" alt="sachinshiv1" /></p>
