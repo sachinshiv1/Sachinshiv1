@@ -24,16 +24,41 @@
  <br>
  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<br><br> 
+<br>
+ 
+ <br>
+ <h3 align="left">Stats and Analytics:</h3>
+<p><img align= "center" src="https://github-readme-stats.vercel.app/api?username=sachinshiv1&show_icons=true&locale=en" alt="sachinshiv1" /> </p>
 
-<br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinshiv1&show_icons=true&locale=en&layout=compact" alt="sachinshiv1" /></p>
 
-<br><br><br><br><br><br><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinshiv1&show_icons=true&locale=en" alt="sachinshiv1" /> </p>
+ 
+
+<br><br><br><br>
+<p> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinshiv1&" alt="sachinshiv1" /> </p>
+
+
+<br><br><br><br><br><br><br>
+<p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinshiv1&show_icons=true&locale=en&layout=compact" alt="sachinshiv1" /></p>
 
 <br>
-<p> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinshiv1&" alt="sachinshiv1" /> </p>
 
-<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
