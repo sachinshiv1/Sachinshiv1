@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinshiv1&show_icons=true&locale=en&layout=compact" alt="sachinshiv1" /></p>
 
-<br>
+<br style = “line-height:100px;”>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinshiv1&show_icons=true&locale=en" alt="sachinshiv1" /></p>
 
 <br>
